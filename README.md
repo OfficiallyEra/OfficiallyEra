@@ -13,7 +13,7 @@
 
 - 📖 Student at *Adamas University Kolkata* SOET(School of Engineering & Technology)
 
-# 🚀 Let's code something extraordinary together!
+## 🚀 Let's code something extraordinary together!
 
 # ⌚Expirienced in :
 
