@@ -17,18 +17,18 @@
 
 # ⌚Expirienced in :
 
-#### **C** | Since 2018
+- **C** | Since 2018
 
-#### **c++** | Since 2022
+- **c++** | Since 2022
 
-#### **IDA PRO** | Since 2023
+- **IDA PRO** | Since 2023
 
-#### **Ghidra** | Since 2023
+- **Ghidra** | Since 2023
 
-#### **X64 DBG** | Since 2024 Feb
+- **X64 DBG** | Since 2024 Feb
 
-#### **Cheat Engine** | since 2019
+- **Cheat Engine** | since 2019
 
-#### **Assembly [Learning]** | since 2020
+- **Assembly [Learning]** | since 2020
 
-#### **GameGuardian** | since 2015 ~
+- **GameGuardian** | since 2015 ~
