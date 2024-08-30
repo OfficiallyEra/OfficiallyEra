@@ -1,7 +1,7 @@
 
 # 👋 Hey! I'm Ayush (also known as Era)
 
-- ☑️ Gaining expirience since 2014, Updating GitHib since 2024
+- ☑️ Gaining expirience since 2014, Updating GitHub since 2024
 
 - 🌱 Currently working on a detailed finger and hand detection project using C++ and OpenCV.
 
