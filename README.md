@@ -3,7 +3,7 @@
 
 - ☑️ Gaining expirience since 2014, Updating GitHub since 2024
 
-- 🌱 Currently working on a detailed finger and hand detection project using C++ and OpenCV.
+- 🌱 Currently working on a detailed finger and hand detection project using C++ and OpenCV. You can view its progress [here](https://github.com/OfficiallyEra/ExternalProjects/tree/main/C%2B%2B)
 
 - 🎮 Learning game engine development while indulging in my passion for playing games!
 
