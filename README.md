@@ -1,7 +1,7 @@
 
 # 👋 Hey! I'm Ayush (also known as Era)
 
-☑️ Gaining expirience since 2014, Updating GitHub since 2024<br><br>- 🌱 Currently working on Light Graphics User Interface = project vuilding for Developers. Repo -> [here](https://github.com/OfficiallyEra/ExternalProjects/tree/main/C%2B%2B)<br><br>- 🎮 Learning game engine development while indulging in my passion for playing games!<br><br>- 💻 Passionate about exploring and contributing to github projects.<br><br>- 🛠️ Always eager to learn, innovate, and build exciting new projects.<br><br>- 📖 Student at **Adamas University Kolkata** SOET(School of Engineering & Technology)
+☑️ Gaining expirience since 2014, Updating GitHub since 2024<br><br>- 🌱 Currently working on Light Graphics User Interface = project vuilding for Developers. Repo -> [here](https://github.com/OfficiallyEra/LGui)<br><br>- 🎮 Learning game engine development while indulging in my passion for playing games!<br><br>- 💻 Passionate about exploring and contributing to github projects.<br><br>- 🛠️ Always eager to learn, innovate, and build exciting new projects.<br><br>- 📖 Student at **Adamas University Kolkata** SOET(School of Engineering & Technology)
 
 
 ## 🌐 Socials:
